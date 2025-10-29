@@ -1,6 +1,8 @@
 # Genetic_Algorithm
 This is a Genetic Algorithm model to find the optimal solution (maximize or minimize a function).
 
+![maxresdefault](https://github.com/user-attachments/assets/63af54ab-432a-47da-bdea-27684bcd7f41)
+
 Problem model
 GAProblem dataclass encapsulates everything the GA needs to know about an objective:
 chromosome_type: "bit" (bitstrings) or "real" (real-valued vectors).
